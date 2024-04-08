@@ -1,0 +1,35 @@
+.login-page {
+    height: 100vh;
+    background-color: #f8f9fa; /* Light background color */
+  }
+  
+  .login-image {
+    width: 100%;
+  }
+  
+  .login-form {
+    background-color: #fff; /* White background color for the form */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* Box shadow for a card-like effect */
+  }
+  
+  .login-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .login-subtitle {
+    font-size: 32px;
+    margin-top: 20px;
+  }
+  
+  .login-text {
+    margin-top: 20px;
+    color: #6c757d; /* Text color */
+  }
+  
+  .login-button {
+    margin-top: 20px;
+  }
+  
